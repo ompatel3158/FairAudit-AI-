@@ -1,0 +1,6 @@
+{
+  "name": "FairScreen AI",
+  "description": "An AI-powered app that helps recruiters screen resumes fairly by anonymizing personal details before scoring candidates based on job description fit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
